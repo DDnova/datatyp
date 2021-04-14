@@ -17,5 +17,5 @@ datatyp is an online compiler/editor where you can run HTML/CSS/JS,C,C++,Bash,Ja
 ## Linux Shell
 ![image](https://user-images.githubusercontent.com/82214133/114177334-e818a380-9959-11eb-9c68-787e43c40207.png)
 
-##Network Detector 
+## Network Detector 
 ![image](https://user-images.githubusercontent.com/82214133/114730133-382ea600-9d5e-11eb-917b-ca7794268d6e.png)
